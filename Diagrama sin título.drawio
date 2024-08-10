@@ -4,44 +4,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-1" value="Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-1" value="Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-2" value="Diagnostico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-2" value="Diagnostico" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-3" value="Cotizacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-4" value="Tipo de Servico" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-4" value="Tipo de Servico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-6" value="Estableciemiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-5" value="Resena" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-7" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-6" value="Estableciemiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-9" value="Servicio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-7" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-10" value="Modelo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-8" value="Calificacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-11" value="Marca" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-9" value="Servicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="yRF2DjxuFHSeK7UutHfT-12" value="Buscar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-10" value="Modelo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="ZAS43RlnrxwdhzB3AwsX-1" value="Mecanico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-11" value="Marca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="ZAS43RlnrxwdhzB3AwsX-2" value="Calificacion Y Resena" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-12" value="Buscar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yRF2DjxuFHSeK7UutHfT-13" value="Contactar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="ZAS43RlnrxwdhzB3AwsX-3" value="Geolocalización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
