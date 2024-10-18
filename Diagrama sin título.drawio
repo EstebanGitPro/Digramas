@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Modelo de Dominio" id="xrTnRlgf6JzPmA5lY5Ht">
-    <mxGraphModel dx="3287" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="l2W6QiiRdxv0uydRR08I-0" />
         <mxCell id="l2W6QiiRdxv0uydRR08I-1" parent="l2W6QiiRdxv0uydRR08I-0" />
@@ -630,21 +630,21 @@
         </mxCell>
         <mxCell id="l2W6QiiRdxv0uydRR08I-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="l2W6QiiRdxv0uydRR08I-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="240" as="sourcePoint" />
-            <mxPoint x="390" y="240" as="targetPoint" />
+            <mxPoint x="780" y="280" as="sourcePoint" />
+            <mxPoint x="1010" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l2W6QiiRdxv0uydRR08I-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="l2W6QiiRdxv0uydRR08I-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="220" as="sourcePoint" />
-            <mxPoint x="160" y="220" as="targetPoint" />
+            <mxPoint x="1010" y="260" as="sourcePoint" />
+            <mxPoint x="780" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l2W6QiiRdxv0uydRR08I-37" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="260" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="880" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2W6QiiRdxv0uydRR08I-38" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="260" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="880" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2W6QiiRdxv0uydRR08I-39" value="0...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
           <mxGeometry x="60" y="689.63" width="60" height="30" as="geometry" />
