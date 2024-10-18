@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Modelo de Dominio" id="xrTnRlgf6JzPmA5lY5Ht">
-    <mxGraphModel dx="3679" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2742" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="l2W6QiiRdxv0uydRR08I-0" />
         <mxCell id="l2W6QiiRdxv0uydRR08I-1" parent="l2W6QiiRdxv0uydRR08I-0" />
@@ -957,7 +957,7 @@
           <mxGeometry x="470" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-0" value="Marca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-720" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-840" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="l2W6QiiRdxv0uydRR08I-1" source="bAu-hEEsQBAJDN5x6Elg-2" target="l2W6QiiRdxv0uydRR08I-2">
           <mxGeometry relative="1" as="geometry" />
@@ -972,19 +972,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-2" value="Linea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-720" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-840" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-3" value="Cilindraje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-720" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-840" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-4" value="Año" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="l2W6QiiRdxv0uydRR08I-1" source="bAu-hEEsQBAJDN5x6Elg-82" target="bAu-hEEsQBAJDN5x6Elg-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bAu-hEEsQBAJDN5x6Elg-82" value="Categoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-980" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1100" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
