@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Modelo de Dominio" id="xrTnRlgf6JzPmA5lY5Ht">
-    <mxGraphModel dx="2582" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2405" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="l2W6QiiRdxv0uydRR08I-0" />
         <mxCell id="l2W6QiiRdxv0uydRR08I-1" parent="l2W6QiiRdxv0uydRR08I-0" />
@@ -1114,7 +1114,7 @@
         <mxCell id="T_2_fAwWczknLUpPYPn8-2" value="Muestra" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
           <mxGeometry x="-190" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T_2_fAwWczknLUpPYPn8-3" value="Muestra Informacion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
+        <mxCell id="T_2_fAwWczknLUpPYPn8-3" value="Es Mostrada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
           <mxGeometry x="-190" y="135" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_2_fAwWczknLUpPYPn8-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
@@ -1132,8 +1132,8 @@
             <mxPoint x="-220" y="103.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T_2_fAwWczknLUpPYPn8-11" value="0...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
-          <mxGeometry x="-360" y="205" width="60" height="30" as="geometry" />
+        <mxCell id="T_2_fAwWczknLUpPYPn8-11" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2W6QiiRdxv0uydRR08I-1">
+          <mxGeometry x="-370" y="175" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
