@@ -1765,7 +1765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Copy of Modelo de Dominio" id="Q37I029_77jTggMF_tkB">
-    <mxGraphModel dx="2842" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3691" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UZFycFy28Sh8XMugKaMT-0" />
         <mxCell id="UZFycFy28Sh8XMugKaMT-1" parent="UZFycFy28Sh8XMugKaMT-0" />
@@ -1916,7 +1916,7 @@
         <mxCell id="UZFycFy28Sh8XMugKaMT-36" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
           <mxGeometry x="80" y="-155" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UZFycFy28Sh8XMugKaMT-37" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
+        <mxCell id="UZFycFy28Sh8XMugKaMT-37" value="Muestra" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
           <mxGeometry y="-155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UZFycFy28Sh8XMugKaMT-38" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
