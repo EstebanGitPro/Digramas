@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="xwN7b_LtwqWbbOBGa_al">
-    <mxGraphModel>
+    <mxGraphModel dx="1898" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="72VmfCfnLHxIe54Cltwi-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="1550" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-1" target="72VmfCfnLHxIe54Cltwi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-1" value="Registro Usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-5" target="72VmfCfnLHxIe54Cltwi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-5" value="Registro Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-6" target="72VmfCfnLHxIe54Cltwi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-6" value="Seleccion de Caracteristicas de la Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-7" target="72VmfCfnLHxIe54Cltwi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-7" value="adjuintar Fotos de la Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-8" target="72VmfCfnLHxIe54Cltwi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-8" value="Buscar Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="990" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-9" value="Solicitar Diagnostico" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-10" target="72VmfCfnLHxIe54Cltwi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-10" value="Seleccionar Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="1550" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Estableciemeinto&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="590" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-19" target="72VmfCfnLHxIe54Cltwi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-19" value="Registro Estableciemeinto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-20" target="72VmfCfnLHxIe54Cltwi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-20" value="Define ubicacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-21" target="72VmfCfnLHxIe54Cltwi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-21" value="Configura Horario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-22" target="72VmfCfnLHxIe54Cltwi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-22" value="Define Tipos de Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="785" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-23" target="72VmfCfnLHxIe54Cltwi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-23" value="Gestiona Disponibilidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="990" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72VmfCfnLHxIe54Cltwi-24" target="72VmfCfnLHxIe54Cltwi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-24" value="Realiza Diagnostico" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72VmfCfnLHxIe54Cltwi-25" value="Presta Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
