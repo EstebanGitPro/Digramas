@@ -1483,8 +1483,8 @@
             <mxPoint x="460" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9lhz87TxtEin3C194lg-13" value="Muestra" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UZFycFy28Sh8XMugKaMT-1">
-          <mxGeometry x="390" y="-560" width="60" height="30" as="geometry" />
+        <mxCell id="q9lhz87TxtEin3C194lg-13" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UZFycFy28Sh8XMugKaMT-1">
+          <mxGeometry x="374" y="-560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
