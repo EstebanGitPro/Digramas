@@ -631,7 +631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modelo de Dominio" id="Q37I029_77jTggMF_tkB">
-    <mxGraphModel dx="2882" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UZFycFy28Sh8XMugKaMT-0" />
         <mxCell id="UZFycFy28Sh8XMugKaMT-1" parent="UZFycFy28Sh8XMugKaMT-0" />
@@ -1332,7 +1332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZQ31iJrrHg2NGqVBdBQq-4" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
-          <mxGeometry x="890" y="-500" width="60" height="30" as="geometry" />
+          <mxGeometry x="890" y="-505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQ31iJrrHg2NGqVBdBQq-5" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
           <mxGeometry x="790" y="-505" width="60" height="30" as="geometry" />
