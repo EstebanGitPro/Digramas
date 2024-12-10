@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="25.0.3" pages="7">
   <diagram name="Modelo de Dominio" id="Q37I029_77jTggMF_tkB">
-    <mxGraphModel dx="5728" dy="3240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5134" dy="2986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UZFycFy28Sh8XMugKaMT-0" />
         <mxCell id="UZFycFy28Sh8XMugKaMT-1" parent="UZFycFy28Sh8XMugKaMT-0" />
@@ -429,10 +429,10 @@
         <mxCell id="ZQ31iJrrHg2NGqVBdBQq-0" value="Departamento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
           <mxGeometry x="25" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ31iJrrHg2NGqVBdBQq-4" value="Tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
-          <mxGeometry x="860" y="-500" width="60" height="30" as="geometry" />
+        <mxCell id="ZQ31iJrrHg2NGqVBdBQq-4" value="Se establece---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
+          <mxGeometry x="845" y="-485" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ31iJrrHg2NGqVBdBQq-5" value="Tiene ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
+        <mxCell id="ZQ31iJrrHg2NGqVBdBQq-5" value="Hay ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
           <mxGeometry x="820" y="-500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQ31iJrrHg2NGqVBdBQq-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UZFycFy28Sh8XMugKaMT-1" vertex="1">
