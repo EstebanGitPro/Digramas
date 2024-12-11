@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="25.0.3" pages="2">
   <diagram name="Front" id="jehTi2hsKA-ysJY97Lvf">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2146" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,12 @@
         </mxCell>
         <mxCell id="NxCNRJtnhicaHid0XVdf-5" value="Resultados de Navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1dMsmX6-G_5bQuZCKD2_-1" value="&lt;div&gt;Estitar&amp;nbsp;&lt;/div&gt;Calificaciones y resenas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1dMsmX6-G_5bQuZCKD2_-3" value="&lt;div&gt;Editar&lt;/div&gt;Mostrar informacion del establecimiento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
