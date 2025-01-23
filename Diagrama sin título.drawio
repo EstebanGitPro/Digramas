@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7" pages="9">
   <diagram name="Modelo de Dominio" id="Q37I029_77jTggMF_tkB">
     <mxGraphModel dx="5134" dy="2986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Modelo de Dominio" id="KOcw_NIY2MsHO7pljv5y">
-    <mxGraphModel dx="4116" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4044" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-0" />
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-1" parent="j4aYy9SPn5BZf8cOLpk1-0" />
@@ -1678,13 +1678,28 @@
           <mxGeometry x="-508" y="772" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="p6f2WKt86DN1AnZxQw6Z-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
-          <mxGeometry x="-18" y="920" width="58" height="58" as="geometry" />
+          <mxGeometry x="20" y="960" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="p6f2WKt86DN1AnZxQw6Z-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
-          <mxGeometry x="652" y="486" width="58" height="58" as="geometry" />
+          <mxGeometry x="-300" y="466" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="tcLZgAygLZMfsL3RyCMA-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+        <mxCell id="tcLZgAygLZMfsL3RyCMA-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
           <mxGeometry x="572" y="585.63" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7p6yssM6rPXPpiXvcQzy-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="582" y="595.63" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7p6yssM6rPXPpiXvcQzy-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="592" y="605.63" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7p6yssM6rPXPpiXvcQzy-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="602" y="615.63" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7p6yssM6rPXPpiXvcQzy-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="720" y="-280" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7p6yssM6rPXPpiXvcQzy-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="280" y="245" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
