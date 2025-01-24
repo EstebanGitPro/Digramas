@@ -17,19 +17,6 @@
         <mxCell id="ffCC9IC_PPOUAIqoXf9q-2" value="servicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ffCC9IC_PPOUAIqoXf9q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ffCC9IC_PPOUAIqoXf9q-3" target="ffCC9IC_PPOUAIqoXf9q-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="250" />
-              <mxPoint x="260" y="40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ffCC9IC_PPOUAIqoXf9q-21" value="tiene metodos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ffCC9IC_PPOUAIqoXf9q-19">
-          <mxGeometry x="0.015" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ffCC9IC_PPOUAIqoXf9q-3" value="interface" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="80" height="80" as="geometry" />
         </mxCell>
@@ -68,23 +55,6 @@
         </mxCell>
         <mxCell id="ffCC9IC_PPOUAIqoXf9q-12" value="Test" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="670" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ffCC9IC_PPOUAIqoXf9q-18" value="metodos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ffCC9IC_PPOUAIqoXf9q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ffCC9IC_PPOUAIqoXf9q-18" target="ffCC9IC_PPOUAIqoXf9q-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="40" />
-              <mxPoint x="600" y="10" />
-              <mxPoint x="700" y="10" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ffCC9IC_PPOUAIqoXf9q-22" value="son mokeados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ffCC9IC_PPOUAIqoXf9q-20">
-          <mxGeometry x="-0.2973" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
