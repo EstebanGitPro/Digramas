@@ -107,23 +107,32 @@
             <mxPoint x="390" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UJgiyPl56V2SaCjNOHNz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UJgiyPl56V2SaCjNOHNz-3" target="UJgiyPl56V2SaCjNOHNz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-3" value="Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UJgiyPl56V2SaCjNOHNz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UJgiyPl56V2SaCjNOHNz-5" target="UJgiyPl56V2SaCjNOHNz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-5" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UJgiyPl56V2SaCjNOHNz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UJgiyPl56V2SaCjNOHNz-6" target="UJgiyPl56V2SaCjNOHNz-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-6" value="Handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-7" value="mok&lt;div&gt;DB&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-8" value="mok&lt;div&gt;Repository&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UJgiyPl56V2SaCjNOHNz-9" value="mok&lt;div&gt;Service&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
