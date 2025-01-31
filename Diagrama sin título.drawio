@@ -1729,7 +1729,10 @@
           <mxGeometry x="120" y="-307" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="KZzLGNyo6Hn-OzGDQkt1-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png;rotation=0;" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
-          <mxGeometry x="512" y="-500" width="58" height="58" as="geometry" />
+          <mxGeometry x="490" y="-440" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="KZzLGNyo6Hn-OzGDQkt1-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png;rotation=0;" vertex="1" parent="j4aYy9SPn5BZf8cOLpk1-1">
+          <mxGeometry x="844" y="-408" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
