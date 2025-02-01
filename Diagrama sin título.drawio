@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Modelo de Dominio" id="KOcw_NIY2MsHO7pljv5y">
-    <mxGraphModel dx="4044" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3020" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-0" />
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-1" parent="j4aYy9SPn5BZf8cOLpk1-0" />
@@ -1669,7 +1669,7 @@
           <mxGeometry x="960" y="372" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="7p6yssM6rPXPpiXvcQzy-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
-          <mxGeometry x="152" y="750" width="58" height="58" as="geometry" />
+          <mxGeometry x="145" y="740" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="7p6yssM6rPXPpiXvcQzy-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
           <mxGeometry x="152" y="960" width="58" height="58" as="geometry" />
