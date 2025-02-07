@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Modelo de Dominio" id="KOcw_NIY2MsHO7pljv5y">
-    <mxGraphModel dx="5251" dy="2983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-0" />
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-1" parent="j4aYy9SPn5BZf8cOLpk1-0" />
@@ -1857,7 +1857,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ikTzozqDopcYS99LU7HB" name="Contexto acotado 3">
-    <mxGraphModel dx="1284" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1963,7 +1963,7 @@
         <mxCell id="M_jO7O7nLhqYUXvnZIFx-91" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uCZEW9LirbzEzI3smq2-1" value="Entidades:&#xa;- Establecimiento&#xa;- Ubicación&#xa;- Servicio&#xa;- Tipo de Servicio&#xa;&#xa;&#xa;Descripción:&#xa;Este contexto cubre la gestión de los establecimientos registrados, incluyendo sus servicios y ubicaciones. Los servicios pueden ser actualizados por los establecimientos, y el usuario puede ver esta información.&#xa;&#xa;&#xa;Relaciones:&#xa;- Un Establecimiento tiene una Ubicación.&#xa;- Un Establecimiento ofrece uno o varios Servicios.&#xa;- Un Servicio está relacionado con un Tipo de Servicio.&#xa;- Los Servicios pueden ser actualizados por el Establecimiento.&#xa;&#xa;&#xa;Responsabilidades:&#xa;- Registro y administración de establecimientos.&#xa;- Gestión de los servicios ofrecidos por los establecimientos.&#xa;- Relación de los servicios con sus tipos y su ubicación." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6uCZEW9LirbzEzI3smq2-1" value="Entidades:&#xa;- Establecimiento&#xa;- Ubicación&#xa;- Servicio&#xa;- Tipo de Servicio&#xa;&#xa;&#xa;Descripción:&#xa;Este contexto cubre la gestión de los establecimientos registrados, incluyendo sus servicios y ubicaciones. Los servicios pueden ser actualizados por los establecimientos, y el usuario puede ver esta información.&#xa;&#xa;&#xa;Relaciones:&#xa;- Un Establecimiento tiene una Ubicación.&#xa;- Un Establecimiento ofrece uno o varios Servicios.&#xa;- Un Servicio está relacionado con un Tipo de Servicio.&#xa;- Los Servicios pueden ser actualizados por el Establecimiento.&#xa;&#xa;&#xa;Responsabilidades:&#xa;- Registro y administración de establecimientos.&#xa;- Gestión de los servicios ofrecidos por los establecimientos.&#xa;- Relación de los servicios con sus tipos y su ubicación." style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="560" height="370" as="geometry" />
         </mxCell>
       </root>
