@@ -3386,7 +3386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-12" id="Alh6PhReIQpU-1BgopXO">
-    <mxGraphModel dx="2518" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PgfhWY75nMowOa2YbkeK-0" />
         <mxCell id="PgfhWY75nMowOa2YbkeK-1" parent="PgfhWY75nMowOa2YbkeK-0" />
@@ -3458,7 +3458,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgfhWY75nMowOa2YbkeK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=0;shadow=1;strokeColor=light-dark(#e70d0d, #ededed);fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=0;ignoreEdge=0;backgroundOutline=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-9" target="PgfhWY75nMowOa2YbkeK-48">
+        <mxCell id="PgfhWY75nMowOa2YbkeK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;flowAnimation=0;shadow=1;strokeColor=light-dark(#e70d0d, #ededed);fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=0;ignoreEdge=0;backgroundOutline=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-9" target="PgfhWY75nMowOa2YbkeK-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="270" />
