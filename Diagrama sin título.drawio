@@ -3386,7 +3386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Modelo de Dominio" id="KOcw_NIY2MsHO7pljv5y">
-    <mxGraphModel dx="2979" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4652" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-0" />
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-1" parent="j4aYy9SPn5BZf8cOLpk1-0" />
@@ -3472,10 +3472,10 @@
           <mxGeometry x="40" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-23" value="&amp;lt;---Realiza" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
-          <mxGeometry x="200" y="-10" width="70" height="30" as="geometry" />
+          <mxGeometry x="200" y="-15" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-24" value="Es Realizado ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
-          <mxGeometry x="280" y="10" width="110" height="15" as="geometry" />
+          <mxGeometry x="280" y="15" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j4aYy9SPn5BZf8cOLpk1-25" value="0...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="j4aYy9SPn5BZf8cOLpk1-1" vertex="1">
           <mxGeometry x="120" y="-10" width="60" height="30" as="geometry" />
