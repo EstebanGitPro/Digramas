@@ -3396,7 +3396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copy of Copy of Modelo de Dominio" id="GHO28az9wQ2gnKEgW2pI">
-    <mxGraphModel dx="2653" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3082" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-0" />
         <mxCell id="xfsyF0QGJkqUza2iTEYG-1" parent="xfsyF0QGJkqUza2iTEYG-0" />
@@ -3788,7 +3788,7 @@
         <mxCell id="xfsyF0QGJkqUza2iTEYG-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="xfsyF0QGJkqUza2iTEYG-1" source="xfsyF0QGJkqUza2iTEYG-112" target="xfsyF0QGJkqUza2iTEYG-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xfsyF0QGJkqUza2iTEYG-112" value="Horario&amp;nbsp;&lt;div&gt;Establecimeinto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
+        <mxCell id="xfsyF0QGJkqUza2iTEYG-112" value="Horario&amp;nbsp;&lt;div&gt;Sede&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="890" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="xfsyF0QGJkqUza2iTEYG-1" source="xfsyF0QGJkqUza2iTEYG-112" target="xfsyF0QGJkqUza2iTEYG-116" edge="1">
