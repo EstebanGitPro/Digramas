@@ -4335,7 +4335,7 @@
         <mxCell id="PgfhWY75nMowOa2YbkeK-56" value="Dia" style="rounded=0;whiteSpace=wrap;html=1;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="210" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PgfhWY75nMowOa2YbkeK-57" value="Departamento" style="rounded=0;whiteSpace=wrap;html=1;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
+        <mxCell id="PgfhWY75nMowOa2YbkeK-57" value="Departamento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="210" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgfhWY75nMowOa2YbkeK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0066CC;" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-73" target="PgfhWY75nMowOa2YbkeK-75" edge="1">
