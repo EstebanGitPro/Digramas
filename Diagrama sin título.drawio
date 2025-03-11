@@ -4433,7 +4433,7 @@
         <mxCell id="IpTdQZjh1hWX6mzh_IN2-1" value="tipoSede" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="210" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpTdQZjh1hWX6mzh_IN2-2" value="Representante Sede" style="rounded=0;whiteSpace=wrap;html=1;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
+        <mxCell id="IpTdQZjh1hWX6mzh_IN2-2" value="Representante Sede" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="214" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nU75Mk6czKAwLy5voTX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="PgfhWY75nMowOa2YbkeK-1" source="oi-kZSOqTLMeV3lM7L5y-0" target="PgfhWY75nMowOa2YbkeK-73" edge="1">
@@ -4453,7 +4453,7 @@
         <mxCell id="_nU75Mk6czKAwLy5voTX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#6051FF;" parent="PgfhWY75nMowOa2YbkeK-1" source="oi-kZSOqTLMeV3lM7L5y-1" target="oi-kZSOqTLMeV3lM7L5y-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oi-kZSOqTLMeV3lM7L5y-1" value="Estableciemiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
+        <mxCell id="oi-kZSOqTLMeV3lM7L5y-1" value="Estableciemiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nU75Mk6czKAwLy5voTX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.376;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6051FF;" parent="PgfhWY75nMowOa2YbkeK-1" source="IpTdQZjh1hWX6mzh_IN2-2" target="oi-kZSOqTLMeV3lM7L5y-0" edge="1">
