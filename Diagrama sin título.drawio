@@ -4022,7 +4022,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-12" id="Alh6PhReIQpU-1BgopXO">
-    <mxGraphModel dx="2353" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4118" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PgfhWY75nMowOa2YbkeK-0" />
         <mxCell id="PgfhWY75nMowOa2YbkeK-1" parent="PgfhWY75nMowOa2YbkeK-0" />
@@ -4034,7 +4034,7 @@
         <mxCell id="PgfhWY75nMowOa2YbkeK-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="220" y="90" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PgfhWY75nMowOa2YbkeK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=1;ignoreEdge=0;backgroundOutline=1;strokeColor=default;" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-22" target="PgfhWY75nMowOa2YbkeK-9" edge="1">
+        <mxCell id="PgfhWY75nMowOa2YbkeK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=1;ignoreEdge=0;backgroundOutline=1;strokeColor=none;" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-22" target="PgfhWY75nMowOa2YbkeK-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="278" />
@@ -4103,9 +4103,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgfhWY75nMowOa2YbkeK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;shadow=1;strokeColor=light-dark(#e70d0d, #ededed);fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=0;ignoreEdge=0;backgroundOutline=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-9" target="PgfhWY75nMowOa2YbkeK-48" edge="1">
+        <mxCell id="PgfhWY75nMowOa2YbkeK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;shadow=1;strokeColor=light-dark(#e70d0d, #ededed);fixDash=0;comic=0;enumerate=0;orthogonal=0;snapToPoint=0;ignoreEdge=0;backgroundOutline=1;exitX=0.991;exitY=0.384;exitDx=0;exitDy=0;entryX=0;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-9" target="PgfhWY75nMowOa2YbkeK-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="640" y="271" />
               <mxPoint x="640" y="270" />
             </Array>
             <mxPoint x="750" y="270" as="targetPoint" />
@@ -4154,6 +4155,9 @@
             <mxPoint x="300" y="615" as="sourcePoint" />
             <mxPoint x="1240" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zq5epUliQge7YHwyb1Ba-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#29DF11;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="PgfhWY75nMowOa2YbkeK-1" source="PgfhWY75nMowOa2YbkeK-22" target="PgfhWY75nMowOa2YbkeK-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgfhWY75nMowOa2YbkeK-22" value="Marca" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;" parent="PgfhWY75nMowOa2YbkeK-1" vertex="1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
