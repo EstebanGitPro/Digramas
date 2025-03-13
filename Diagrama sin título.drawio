@@ -3396,7 +3396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copy of Copy of Modelo de Dominio" id="GHO28az9wQ2gnKEgW2pI">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2752" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-0" />
         <mxCell id="xfsyF0QGJkqUza2iTEYG-1" parent="xfsyF0QGJkqUza2iTEYG-0" />
@@ -4028,8 +4028,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KeOpJa1SXilJRHg7_9tP-0" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="xfsyF0QGJkqUza2iTEYG-1" source="dwh522S1wwyTXQm2qv7i-0" target="xfsyF0QGJkqUza2iTEYG-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="679" />
+              <mxPoint x="150" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dwh522S1wwyTXQm2qv7i-0" value="Trancision Estado Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
-          <mxGeometry x="215" y="649.63" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="649.26" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dwh522S1wwyTXQm2qv7i-2" value="Esta Estado origen---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
           <mxGeometry x="172.5" y="570" width="95" height="30" as="geometry" />
@@ -4065,11 +4073,23 @@
         <mxCell id="dwh522S1wwyTXQm2qv7i-17" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
           <mxGeometry x="321.5" y="520" width="48.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="KeOpJa1SXilJRHg7_9tP-1" value="Esta Estado Actual---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="70" y="575" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeOpJa1SXilJRHg7_9tP-2" value="Tiene Estado Actual---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="88.13" y="573.13" width="148.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeOpJa1SXilJRHg7_9tP-3" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="200" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KeOpJa1SXilJRHg7_9tP-5" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="180" y="485" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-12" id="Alh6PhReIQpU-1BgopXO">
-    <mxGraphModel dx="2074" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PgfhWY75nMowOa2YbkeK-0" />
         <mxCell id="PgfhWY75nMowOa2YbkeK-1" parent="PgfhWY75nMowOa2YbkeK-0" />
