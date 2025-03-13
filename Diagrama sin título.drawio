@@ -3396,7 +3396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copy of Copy of Modelo de Dominio" id="GHO28az9wQ2gnKEgW2pI">
-    <mxGraphModel dx="2335" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2386" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-0" />
         <mxCell id="xfsyF0QGJkqUza2iTEYG-1" parent="xfsyF0QGJkqUza2iTEYG-0" />
@@ -4018,11 +4018,58 @@
         <mxCell id="J7kK40S7XIFOAXeog_jy-4" value="&lt;br&gt;Es ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="40" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234.77999999999997" y="649.6300000000001" as="sourcePoint" />
+            <mxPoint x="234.77999999999997" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="234.77999999999997" y="590" />
+              <mxPoint x="234.77999999999997" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-0" value="Trancision Estado Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="215" y="649.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-2" value="Esta Estado origen---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="172.5" y="570" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-3" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="232.5" y="525" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-4" value="0...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="202.5" y="629.26" width="42.5" height="20.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-5" value="Tiene Estado Origen---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="215" y="575" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-6" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="320" y="619.63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#050505, #008900);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.56" y="520" as="sourcePoint" />
+            <mxPoint x="334.71999999999986" y="648.4300000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="334.56" y="550" />
+              <mxPoint x="334.56" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-14" value="Esta Estado Destino---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="272.5" y="570" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-15" value="Tiene Estado Destino---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="312" y="570" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwh522S1wwyTXQm2qv7i-16" value="0...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xfsyF0QGJkqUza2iTEYG-1">
+          <mxGeometry x="302.5" y="629.26" width="35" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-12" id="Alh6PhReIQpU-1BgopXO">
-    <mxGraphModel dx="264" dy="130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PgfhWY75nMowOa2YbkeK-0" />
         <mxCell id="PgfhWY75nMowOa2YbkeK-1" parent="PgfhWY75nMowOa2YbkeK-0" />
