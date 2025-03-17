@@ -3573,8 +3573,8 @@
             <mxPoint x="-580" y="250" as="sourcePoint" />
             <mxPoint x="-400" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-540" y="470" />
-              <mxPoint x="-540" y="250" />
+              <mxPoint x="-560" y="470" />
+              <mxPoint x="-560" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3687,13 +3687,13 @@
           <mxGeometry x="-730" y="550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-79" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="-680" y="619.63" width="60" height="30" as="geometry" />
+          <mxGeometry x="-680" y="619.63" width="30" height="30.37" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-80" value="Puede aparecer---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="-690" y="560" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-81" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="-630" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="-630" y="500" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-82" value="&amp;lt;---Es Parte&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="-875" y="250" width="90" height="30" as="geometry" />
