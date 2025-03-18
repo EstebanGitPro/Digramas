@@ -3396,7 +3396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copy of Copy of Modelo de Dominio" id="GHO28az9wQ2gnKEgW2pI">
-    <mxGraphModel dx="2420" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3484" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-0" />
         <mxCell id="xfsyF0QGJkqUza2iTEYG-1" parent="xfsyF0QGJkqUza2iTEYG-0" />
@@ -3675,13 +3675,13 @@
           <mxGeometry x="-690" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-75" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="-690" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="-685" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-76" value="Estan dentro---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="-660" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="-670" y="350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-77" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="-640" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="-640" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-78" value="Hace Referencia ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="-730" y="550" width="120" height="30" as="geometry" />
