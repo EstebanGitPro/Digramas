@@ -3396,7 +3396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modelo De Dominio" id="GHO28az9wQ2gnKEgW2pI">
-    <mxGraphModel dx="2553" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2955" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-0" />
         <mxCell id="xfsyF0QGJkqUza2iTEYG-1" parent="xfsyF0QGJkqUza2iTEYG-0" />
@@ -3529,7 +3529,7 @@
           <mxGeometry x="280" y="-200" width="40" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-32" value="&amp;lt;---Corresponde" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="401" y="485" width="130" height="30" as="geometry" />
+          <mxGeometry x="404" y="495" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-33" value="Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="1080" y="-20" width="120" height="60" as="geometry" />
@@ -3928,7 +3928,7 @@
           <mxGeometry x="560" y="619.63" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-149" value="Cambia Estado---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
-          <mxGeometry x="414" y="465" width="110" height="30" as="geometry" />
+          <mxGeometry x="408.5" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfsyF0QGJkqUza2iTEYG-150" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xfsyF0QGJkqUza2iTEYG-1" vertex="1">
           <mxGeometry x="345" y="680" width="40" height="20" as="geometry" />
