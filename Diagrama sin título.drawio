@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.14" pages="5">
   <diagram name="Modelo De Dominio" id="GHO28az9wQ2gnKEgW2pI">
     <mxGraphModel dx="2748" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="3230" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3226" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -1393,6 +1393,24 @@
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-193" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="180" y="485" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-1068" y="275" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-750" y="246" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-808" y="445.13" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-798" y="650" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-418" y="490" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="-320" y="240" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
