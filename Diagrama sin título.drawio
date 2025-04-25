@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="2964" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3619" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -1414,6 +1414,9 @@
         </mxCell>
         <mxCell id="0gPHl067CWx8usVygly_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
           <mxGeometry x="-70" y="739.63" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0gPHl067CWx8usVygly_-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="281.75" y="70" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
