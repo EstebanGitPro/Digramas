@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="3401" dy="2185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3619" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -1126,7 +1126,7 @@
             <mxPoint x="1360" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-118" value="Dia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-118" value="Dia" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="1300" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.453;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="bS2fx-quxWITby3ttyHn-1" edge="1">
@@ -1162,7 +1162,7 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-128" value="&amp;lt;---Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="1110" y="-350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-129" value="Exepcion Horario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-129" value="Exepcion Horario" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="890" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="bS2fx-quxWITby3ttyHn-1" edge="1">
@@ -1432,6 +1432,12 @@
         </mxCell>
         <mxCell id="ff0iaJ2Z2DByYp6UuXHr-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
           <mxGeometry x="1182" y="-260" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="1390" y="-600" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="970" y="-750" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
