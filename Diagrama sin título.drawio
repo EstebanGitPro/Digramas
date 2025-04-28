@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="3619" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3900" dy="2475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -923,7 +923,7 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-55" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-960" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-56" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-56" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="690" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="bS2fx-quxWITby3ttyHn-1" source="bS2fx-quxWITby3ttyHn-58" target="bS2fx-quxWITby3ttyHn-56" edge="1">
@@ -1345,7 +1345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-180" value="Trancision Estado Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-180" value="Trancision Estado Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="230" y="649.26" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-181" value="Esta Estado origen---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
@@ -1394,29 +1394,41 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-193" value="0...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="180" y="485" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-1068" y="275" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-750" y="246" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-808" y="445.13" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-798" y="650" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-418" y="490" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-320" y="240" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="-70" y="739.63" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0gPHl067CWx8usVygly_-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="0gPHl067CWx8usVygly_-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="281.75" y="70" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="170" y="369" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="465" y="950" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="721" y="262" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0iaJ2Z2DByYp6UuXHr-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="185" y="699.63" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
