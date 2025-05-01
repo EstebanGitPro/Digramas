@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="3900" dy="2475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5499" dy="2999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -765,7 +765,7 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-12" value="Calificacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="550" y="739.63" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-13" value="Ubicacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-13" value="Ubicacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="510" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="bS2fx-quxWITby3ttyHn-1" source="bS2fx-quxWITby3ttyHn-4" target="bS2fx-quxWITby3ttyHn-6" edge="1">
@@ -1439,11 +1439,14 @@
         <mxCell id="ff0iaJ2Z2DByYp6UuXHr-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="970" y="-750" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tOXChnIOXuGPUx32wK0p-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="tOXChnIOXuGPUx32wK0p-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="485" y="-720" width="59.75" height="59.75" as="geometry" />
         </mxCell>
-        <mxCell id="tOXChnIOXuGPUx32wK0p-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+        <mxCell id="tOXChnIOXuGPUx32wK0p-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="475.13" y="-510" width="59.75" height="59.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FEPDzLVjlXD_gnuyETNV-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="bS2fx-quxWITby3ttyHn-1">
+          <mxGeometry x="487.5" y="-330" width="59.75" height="59.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
