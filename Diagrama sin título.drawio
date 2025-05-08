@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="2537" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3577" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -1035,7 +1035,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-92" value="Servicio Sede" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-92" value="Servicio Sede" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="800" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-93" value="Esta ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
