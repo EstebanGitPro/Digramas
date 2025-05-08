@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Modelo De Dominio" id="OBdil055lo5C47voYP23">
-    <mxGraphModel dx="2936" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS2fx-quxWITby3ttyHn-0" />
         <mxCell id="bS2fx-quxWITby3ttyHn-1" parent="bS2fx-quxWITby3ttyHn-0" />
@@ -714,7 +714,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-4" value="Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-4" value="Motocicleta" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="bS2fx-quxWITby3ttyHn-1" target="bS2fx-quxWITby3ttyHn-157" edge="1">
@@ -762,7 +762,7 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="bS2fx-quxWITby3ttyHn-1" source="bS2fx-quxWITby3ttyHn-12" target="bS2fx-quxWITby3ttyHn-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-12" value="Calificacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-12" value="Calificacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="550" y="739.63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-13" value="Ubicacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
@@ -1194,7 +1194,7 @@
         <mxCell id="bS2fx-quxWITby3ttyHn-135" value="Pertenece ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="890" y="-540" width="84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bS2fx-quxWITby3ttyHn-136" value="Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
+        <mxCell id="bS2fx-quxWITby3ttyHn-136" value="Servicio&lt;div&gt;Realizado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS2fx-quxWITby3ttyHn-1" vertex="1">
           <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2fx-quxWITby3ttyHn-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1.006;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" parent="bS2fx-quxWITby3ttyHn-1" source="bS2fx-quxWITby3ttyHn-180" target="bS2fx-quxWITby3ttyHn-136" edge="1">
