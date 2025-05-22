@@ -2682,7 +2682,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Prioridad Página-12" id="xn9tu93sfCD-MrKkzFgZ">
-    <mxGraphModel dx="1206" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_zgM1YfixFPAVqUZyrvt-0" />
         <mxCell id="_zgM1YfixFPAVqUZyrvt-1" parent="_zgM1YfixFPAVqUZyrvt-0" />
@@ -2890,6 +2890,7 @@
               <mxPoint x="680" y="1216" />
               <mxPoint x="1210" y="1216" />
               <mxPoint x="1210" y="1090" />
+              <mxPoint x="1460" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
