@@ -2682,7 +2682,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Prioridad Página-12" id="xn9tu93sfCD-MrKkzFgZ">
-    <mxGraphModel dx="980" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="843" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_zgM1YfixFPAVqUZyrvt-0" />
         <mxCell id="_zgM1YfixFPAVqUZyrvt-1" parent="_zgM1YfixFPAVqUZyrvt-0" />
@@ -3047,7 +3047,7 @@
         <mxCell id="_zgM1YfixFPAVqUZyrvt-58" value="Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_zgM1YfixFPAVqUZyrvt-59" value="Tipo de Servico" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
+        <mxCell id="_zgM1YfixFPAVqUZyrvt-59" value="Tipo de Servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="210" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_zgM1YfixFPAVqUZyrvt-60" value="Ciudad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
