@@ -2224,12 +2224,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQzb7DOvqWQmZFetEYzZ-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#180202, #008900);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;startFill=0;" parent="PgfhWY75nMowOa2YbkeK-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="1690" as="targetPoint" />
-            <mxPoint x="1520" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h6q1T1s79ELu86LGsofm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="PgfhWY75nMowOa2YbkeK-1" source="h6q1T1s79ELu86LGsofm-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="1640" as="targetPoint" />
