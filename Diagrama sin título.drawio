@@ -2720,7 +2720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Prioridad Página-12" id="xn9tu93sfCD-MrKkzFgZ">
-    <mxGraphModel dx="1307" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_zgM1YfixFPAVqUZyrvt-0" />
         <mxCell id="_zgM1YfixFPAVqUZyrvt-1" parent="_zgM1YfixFPAVqUZyrvt-0" />
@@ -3208,7 +3208,7 @@
         <mxCell id="8TvGYZ2oJ5gAF_4Kz0XI-8" value="4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="160" y="830" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8TvGYZ2oJ5gAF_4Kz0XI-9" value="5" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
+        <mxCell id="8TvGYZ2oJ5gAF_4Kz0XI-9" value="7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="164" y="1119" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8TvGYZ2oJ5gAF_4Kz0XI-10" value="8" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
@@ -3288,10 +3288,10 @@
         <mxCell id="ngRiRkmetl0qcIbCzl1d-4" value="24" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#bac8d3;strokeColor=#23445d;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="720" y="1310" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ngRiRkmetl0qcIbCzl1d-5" value="25" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
+        <mxCell id="ngRiRkmetl0qcIbCzl1d-5" value="8" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="720" y="990" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ngRiRkmetl0qcIbCzl1d-6" value="26" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
+        <mxCell id="ngRiRkmetl0qcIbCzl1d-6" value="9" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
           <mxGeometry x="900" y="990" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ngRiRkmetl0qcIbCzl1d-7" value="27" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillStyle=solid;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="_zgM1YfixFPAVqUZyrvt-1" vertex="1">
