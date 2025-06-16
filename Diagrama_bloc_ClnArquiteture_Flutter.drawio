@@ -298,14 +298,11 @@
         <mxCell id="aWAq4-83WFejdwoQO6e6-9" value="errors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b2DBMZLl8vYmiN7w8CT0-1" value="UI → Bloc → UseCase (RegisterUseCase) → Repository (abstracto) → DataSource/API" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="700" width="760" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Rf01ELLScm8G5NxFYaVu" name="Bloc">
-    <mxGraphModel dx="1690" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,7 +502,7 @@
           <mxGeometry x="705" y="130" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-61" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="30" height="30" as="geometry" />
+          <mxGeometry x="110" y="310" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-63" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="30" height="30" as="geometry" />
