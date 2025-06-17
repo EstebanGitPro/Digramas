@@ -302,7 +302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rf01ELLScm8G5NxFYaVu" name="Bloc">
-    <mxGraphModel dx="1127" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,7 +372,7 @@
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2r2n_GfjeBUPZDFlsN0z-12" target="2r2n_GfjeBUPZDFlsN0z-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2r2n_GfjeBUPZDFlsN0z-12" value="Bloc_event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2r2n_GfjeBUPZDFlsN0z-12" value="Bloc_event" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2r2n_GfjeBUPZDFlsN0z-14" target="2r2n_GfjeBUPZDFlsN0z-18">
@@ -383,7 +383,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2r2n_GfjeBUPZDFlsN0z-14" value="Bloc(registra el evento)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2r2n_GfjeBUPZDFlsN0z-14" value="Bloc(registra el evento)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Catálogo de eventos:&lt;/h1&gt;&lt;div&gt;Es la entrada si llega un evento conocido lo pasa para que la lógica de eventos lo procese&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -392,7 +392,7 @@
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2r2n_GfjeBUPZDFlsN0z-16" target="2r2n_GfjeBUPZDFlsN0z-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2r2n_GfjeBUPZDFlsN0z-16" value="Bloc_state(emmit)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2r2n_GfjeBUPZDFlsN0z-16" value="Bloc_state(emmit)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2r2n_GfjeBUPZDFlsN0z-18" target="2r2n_GfjeBUPZDFlsN0z-7">
@@ -511,7 +511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EE5Yo9hs3wZl15x15t9M" name="onSubmit">
-    <mxGraphModel dx="1229" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
