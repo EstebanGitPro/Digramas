@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="3">
   <diagram name="Arquitectura Limpia" id="7ERIjwQvnktd2pereJde">
     <mxGraphModel dx="3115" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rf01ELLScm8G5NxFYaVu" name="Bloc">
-    <mxGraphModel dx="1830" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,6 +506,64 @@
         </mxCell>
         <mxCell id="2r2n_GfjeBUPZDFlsN0z-63" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EE5Yo9hs3wZl15x15t9M" name="onSubmit">
+    <mxGraphModel dx="1229" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pmBmOyBGufMax_nVc0bF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pmBmOyBGufMax_nVc0bF-1" target="pmBmOyBGufMax_nVc0bF-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-12" value="Captura de datos del formulario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmBmOyBGufMax_nVc0bF-10">
+          <mxGeometry x="-0.4171" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-1" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176);&quot;&gt;RegisterForm(widget)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pmBmOyBGufMax_nVc0bF-4" target="pmBmOyBGufMax_nVc0bF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-4" value="final void Function(String name, int age, String email, String password) onSubmit;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Funcion&amp;nbsp;onSubmit&lt;/h1&gt;&lt;p&gt;Esta función espera 4 parámetros: nombre, edad, email y contraseña&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-70" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pmBmOyBGufMax_nVc0bF-4" target="pmBmOyBGufMax_nVc0bF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-8" value="El widget recibe una funcion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmBmOyBGufMax_nVc0bF-7">
+          <mxGeometry x="-0.0652" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pmBmOyBGufMax_nVc0bF-11" target="pmBmOyBGufMax_nVc0bF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-16" value="Validación y envío" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmBmOyBGufMax_nVc0bF-15">
+          <mxGeometry x="-0.4057" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-11" value="TextFormField" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-14" value="&lt;span style=&quot;text-align: left; color: rgb(166, 38, 164);&quot; class=&quot;token&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; color: rgb(64, 120, 242);&quot; class=&quot;token&quot;&gt;_submit&lt;/span&gt;&lt;span style=&quot;text-align: left; color: rgb(56, 58, 66);&quot; class=&quot;token&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left; color: rgb(56, 58, 66);&quot; class=&quot;token&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-18" value="&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Secuencia detallada:&lt;/h2&gt;&#xa;&lt;ol class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-decimal space-y-1.5 pl-7&quot; depth=&quot;0&quot;&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Usuario presiona el botón &quot;Registrarse&quot;&lt;/strong&gt;&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Se ejecuta &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;_submit()&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Validación&lt;/strong&gt;: &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;validate()&lt;/code&gt; ejecuta todos los &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;validator&lt;/code&gt; de cada campo&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Si la validación es exitosa&lt;/strong&gt;:&#xa;&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot; depth=&quot;1&quot;&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;save()&lt;/code&gt; ejecuta todos los &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;onSaved&lt;/code&gt; de cada campo&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Las variables &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;_name&lt;/code&gt;, &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;_age&lt;/code&gt;, &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;_email&lt;/code&gt;, &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;_password&lt;/code&gt; se actualizan con los valores del formulario&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Se llama a &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;widget.onSubmit()&lt;/code&gt; pasando estos valores&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pmBmOyBGufMax_nVc0bF-19" value="&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Puntos clave:&lt;/h2&gt;&#xa;&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot; depth=&quot;0&quot;&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Separation of concerns&lt;/strong&gt;: El formulario solo se encarga de capturar y validar datos&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Callback pattern&lt;/strong&gt;: El widget padre decide qué hacer con los datos&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Validación antes de envío&lt;/strong&gt;: Solo se procesan datos válidos&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;strong&gt;Estado del BLoC&lt;/strong&gt;: El &lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;BlocBuilder&lt;/code&gt; muestra un loading spinner durante el registro&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="520" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
