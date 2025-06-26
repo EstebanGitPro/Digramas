@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6" pages="2">
   <diagram name="Entendiendo_El_Problema" id="H3XZQI59wRQvwkgNdc8W">
     <mxGraphModel dx="1076" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,20 +172,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="szQS7TrFr79NhzeEKbcA" name="Modelo de Dominio">
-    <mxGraphModel dx="1503" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1742" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h62beKcLGUgwhn0mzmyN-1" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h62beKcLGUgwhn0mzmyN-1" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXSskJt4wbKfezPEsXWW-1" value="Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXSskJt4wbKfezPEsXWW-1" value="Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXSskJt4wbKfezPEsXWW-2" value="Tipo de Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXSskJt4wbKfezPEsXWW-2" value="Tipo de Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="RiRJboYXaEJVt1DET3ZC-1" target="h62beKcLGUgwhn0mzmyN-1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="RiRJboYXaEJVt1DET3ZC-1" target="h62beKcLGUgwhn0mzmyN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="90" />
@@ -193,10 +193,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiRJboYXaEJVt1DET3ZC-1" value="Municipio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RiRJboYXaEJVt1DET3ZC-1" value="Municipio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="h62beKcLGUgwhn0mzmyN-1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="h62beKcLGUgwhn0mzmyN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="60" as="targetPoint" />
             <Array as="points">
@@ -204,19 +204,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-5" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-5" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="160" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-6" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-6" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="60" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-7" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-7" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="90" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-8" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="160" width="30" height="20" as="geometry" />
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-8" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="210" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hacer una tabla Intermedia&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hacer una tabla Intermedia&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="100" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
