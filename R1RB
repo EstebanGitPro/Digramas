@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GmG1HQbO4wUWVog1lPlv" name="Refinamiento Modelo de Dominio">
-    <mxGraphModel dx="1144" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1634" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,8 +419,8 @@
         <mxCell id="KUztPS3x18wzjPOsRp2m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KUztPS3x18wzjPOsRp2m-6" target="KUztPS3x18wzjPOsRp2m-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="770" />
-              <mxPoint x="460" y="770" />
+              <mxPoint x="410" y="700" />
+              <mxPoint x="460" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -501,7 +501,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-30" value="Estado Obligacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="82.5" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KUztPS3x18wzjPOsRp2m-32" target="KUztPS3x18wzjPOsRp2m-34">
           <mxGeometry relative="1" as="geometry" />
@@ -519,7 +519,7 @@
           <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-35" value="Se debe de tener en cuenta que el Supervisor también puede ser responsable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="75" y="-20" width="140" height="115" as="geometry" />
+          <mxGeometry x="72.5" y="10" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KUztPS3x18wzjPOsRp2m-37" target="KUztPS3x18wzjPOsRp2m-33">
           <mxGeometry relative="1" as="geometry" />
@@ -546,13 +546,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-45" value="Departamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-47" value="Supervisor Responsable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-48" value="Un responsable tiene varios supervisores y un supervisor tiene varios reponsables" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="75" y="132.5" width="140" height="115" as="geometry" />
+          <mxGeometry x="72.5" y="152.5" width="140" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="vJU6T1zXtOt7u5S0p62u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="vJU6T1zXtOt7u5S0p62u-2" target="KUztPS3x18wzjPOsRp2m-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJU6T1zXtOt7u5S0p62u-2" value="Fecha Calendario Máximo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
