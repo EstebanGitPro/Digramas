@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6" pages="3">
   <diagram name="Entendiendo_El_Problema" id="H3XZQI59wRQvwkgNdc8W">
     <mxGraphModel dx="1076" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,53 +172,178 @@
     </mxGraphModel>
   </diagram>
   <diagram id="szQS7TrFr79NhzeEKbcA" name="Modelo de Dominio">
-    <mxGraphModel dx="1742" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2179" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="h62beKcLGUgwhn0mzmyN-1" target="yXSskJt4wbKfezPEsXWW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h62beKcLGUgwhn0mzmyN-1" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXSskJt4wbKfezPEsXWW-1" value="Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yXSskJt4wbKfezPEsXWW-2" value="Tipo de Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="RiRJboYXaEJVt1DET3ZC-1" target="h62beKcLGUgwhn0mzmyN-1" edge="1">
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" target="1b0ItlG7gP-qlARD-91Z-17">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="260" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="90" />
-              <mxPoint x="130" y="90" />
+              <mxPoint x="380" y="570" />
+              <mxPoint x="380" y="710" />
+              <mxPoint x="320" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiRJboYXaEJVt1DET3ZC-1" value="Municipio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="h62beKcLGUgwhn0mzmyN-1" edge="1">
+        <mxCell id="zMxM4xbT9pO90yD1y6Zx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7_8knmsJHjX5JzJWBK4Q-1" target="zMxM4xbT9pO90yD1y6Zx-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="60" as="targetPoint" />
+            <mxPoint x="180" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMxM4xbT9pO90yD1y6Zx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yXSskJt4wbKfezPEsXWW-1" target="zMxM4xbT9pO90yD1y6Zx-3">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="63" />
+              <mxPoint x="460" y="710" />
+              <mxPoint x="510" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-5" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="160" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="yXSskJt4wbKfezPEsXWW-1" value="Obligación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-6" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="60" width="30" height="20" as="geometry" />
+        <mxCell id="yXSskJt4wbKfezPEsXWW-2" value="Tipo de Obligacion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-7" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="90" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="s1B16-n_yQJt3TGLyTvF-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.54" y="180" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="689.5" y="282.4" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-5" value="tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="675" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="180" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-7" value="Esta---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="645" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y2tkf6E7RfeLtYxq7cYu-8" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="210" width="30" height="20" as="geometry" />
+          <mxGeometry x="660" y="290" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y2tkf6E7RfeLtYxq7cYu-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hacer una tabla Intermedia&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="100" width="170" height="100" as="geometry" />
+        <mxCell id="y2tkf6E7RfeLtYxq7cYu-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hacer una tabla Intermedia&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="20" width="170" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="s1B16-n_yQJt3TGLyTvF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="s1B16-n_yQJt3TGLyTvF-1" target="h62beKcLGUgwhn0mzmyN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1B16-n_yQJt3TGLyTvF-1" value="Municipio Entidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1B16-n_yQJt3TGLyTvF-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tener encuenta la hora y los dias previos a la notificacion&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="160" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s1B16-n_yQJt3TGLyTvF-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hacer que un apartado donde el supervisor pueda buscar una obligación realizada y filtrar también por tipo de obligación, fecha y hora&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="300" width="203" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Documentación&lt;/h1&gt;&lt;div&gt;Modelo de Dominio&lt;/div&gt;&lt;div&gt;MER&lt;/div&gt;&lt;div&gt;HU&#39;s&lt;/div&gt;&lt;div&gt;Modulos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="620" width="203" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-2" value="tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="645" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-3" value="Municipio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-4" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-6" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gCug2kfMuktZfZ6acSH9-7" value="Esta---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="675" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-6" value="Tenemos obligaciones que dependen del número del Nit o la identificación y otras que no dependen sino de la fecha que deben de presentar&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-7" value="pertenece ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-8" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-9" value="&amp;lt;---tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="515" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-10" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-12" value="Pertenece ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-13" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-17" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="740" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1b0ItlG7gP-qlARD-91Z-20" value="Tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_8knmsJHjX5JzJWBK4Q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="5QJW4iwWJ3NhQlcc4EEi-2" target="7_8knmsJHjX5JzJWBK4Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QJW4iwWJ3NhQlcc4EEi-2" value="Estado Obligacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="zMxM4xbT9pO90yD1y6Zx-1" target="BP3ZUnT1JOrGzvO56tNZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMxM4xbT9pO90yD1y6Zx-1" value="Responsable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zMxM4xbT9pO90yD1y6Zx-3" value="Calendario Máximo Obligación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-1" value="Supervisor Responsable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-3" value="Se debe de tener en cuenta que el Supervisor también puede ser responsable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="25" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="BP3ZUnT1JOrGzvO56tNZ-5" target="zMxM4xbT9pO90yD1y6Zx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-5" value="Tipo Calendario Máximo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BP3ZUnT1JOrGzvO56tNZ-7" value="Calendario Máximo puede ser del Municipio o de la DIAN o de una entidad que pueda emitirlo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="910" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7_8knmsJHjX5JzJWBK4Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7_8knmsJHjX5JzJWBK4Q-1" target="yXSskJt4wbKfezPEsXWW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_8knmsJHjX5JzJWBK4Q-1" value="Obligacion Realizada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9mgRqiLsmfzhN7CC51p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="E9mgRqiLsmfzhN7CC51p-2" target="zMxM4xbT9pO90yD1y6Zx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9mgRqiLsmfzhN7CC51p-2" value="Fecha Calendario Máximo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8h3szh8cf-IgeYkNUo7-2" value="Frecuencia de la obligación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="90" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GmG1HQbO4wUWVog1lPlv" name="MER">
+    <mxGraphModel dx="1352" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
