@@ -419,7 +419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GmG1HQbO4wUWVog1lPlv" name="Refinamiento Modelo de Dominio">
-    <mxGraphModel dx="3813" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2080" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,7 +427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-2" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" target="KUztPS3x18wzjPOsRp2m-27" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -456,55 +456,55 @@
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="639.54" y="240" as="targetPoint" />
+            <mxPoint x="729.54" y="240" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="639.5" y="342.4" as="sourcePoint" />
+            <mxPoint x="729.5" y="342.4" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-9" value="tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="625" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="715" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="240" width="30" height="20" as="geometry" />
+          <mxGeometry x="730" y="240" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-11" value="Esta---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="595" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="685" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-12" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="350" width="30" height="20" as="geometry" />
+          <mxGeometry x="700" y="350" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-14" target="KUztPS3x18wzjPOsRp2m-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-14" value="Municipio Entidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-15" value="tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="595" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="685" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-16" value="Municipio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-17" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="550" width="30" height="20" as="geometry" />
+          <mxGeometry x="700" y="550" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-18" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="430" width="30" height="20" as="geometry" />
+          <mxGeometry x="730" y="430" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-19" value="Esta---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="625" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="715" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-20" value="Tenemos obligaciones que dependen del número del Nit o la identificación y otras que no dependen sino de la fecha que deben de presentar&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="790" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-21" value="pertenece ---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="515" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-22" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="600" width="30" height="20" as="geometry" />
+          <mxGeometry x="640" y="600" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-23" value="&amp;lt;---tiene" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="575" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-24" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="580" width="30" height="20" as="geometry" />
@@ -521,11 +521,11 @@
         <mxCell id="KUztPS3x18wzjPOsRp2m-28" value="Tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="310" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KUztPS3x18wzjPOsRp2m-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-30" target="KUztPS3x18wzjPOsRp2m-40" edge="1">
+        <mxCell id="KUztPS3x18wzjPOsRp2m-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-30" target="KUztPS3x18wzjPOsRp2m-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-30" value="Estado Obligacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-32" target="KUztPS3x18wzjPOsRp2m-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -557,7 +557,10 @@
         <mxCell id="KUztPS3x18wzjPOsRp2m-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="KUztPS3x18wzjPOsRp2m-40" target="KUztPS3x18wzjPOsRp2m-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KUztPS3x18wzjPOsRp2m-40" value="Obligacion Realizada" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GN7G1LldyZy6UH2qVzDP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KUztPS3x18wzjPOsRp2m-40" target="GN7G1LldyZy6UH2qVzDP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUztPS3x18wzjPOsRp2m-40" value="Obligación Realizada" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-42" value="Frecuencia de la obligación y las que son únicas debemos de tener en cuenta que se revise periódicamente si hay un cambio por ejemplo si hay una que solo se presenta trimestral y no se vuelve a presentar si no hay un cambio, pero su periodicidad va a ser de cada tres meses y que el responsable decida si no hubo cambios, darla por terminada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -570,7 +573,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-45" value="Departamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="580" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUztPS3x18wzjPOsRp2m-47" value="Supervisor Responsable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
@@ -590,10 +593,13 @@
           <mxGeometry x="188.75" y="890" width="162.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YjMuoaRhQSJl46XBIb31-1" value="El departamento sirve para hacer filtrado por municipios y elegir cuáles de estos municipios son lo que van a salir para seleccionarlos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="715" y="20" width="92.5" height="160" as="geometry" />
+          <mxGeometry x="555.25" y="20" width="92.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rBtQVzanjHFPo2-R92ts-13" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h2&gt;✅ &lt;strong&gt;Restricciones de Negocio&lt;/strong&gt;&lt;/h2&gt;&lt;ol&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Definición de Tipo de Empresa&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Al registrar una empresa se debe definir si es persona natural o jurídica&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Régimen Simple&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Si la empresa es régimen simple, no puede ser régimen ordinario.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;p&gt;&lt;i&gt;Si la empresa es régimen simple, no debe tener calendario de ICA ni Retención en la Fuente (Reteica) a nivel municipal.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Régimen Ordinario&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Si la empresa es régimen ordinario, debe presentar ICA y Reteica.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;IVA&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Si se selecciona una periodicidad para el IVA, no se debe permitir seleccionar otra para la misma entidad.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;p&gt;&lt;i&gt;Debe existir la opción de indicar si aplica o no el IVA. Si aplica, debe seleccionar periodicidad.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Activos en el Exterior&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Si la empresa tiene activos en el exterior, el calendario tributario debe ser igual al de Renta (régimen ordinario) o Simple anual.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Calendarios de Obligaciones&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;No quitar una obligación de la lista de pendientes hasta que tenga doble verificación (una del supervisor y otra del responsable).&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Marcaciones de Obligaciones&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Una obligación debe llevar dos marcaciones de verificado (supervisor y responsable) para estar en estado de “hecha”.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Supervisión y Roles&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Al crear la empresa, siempre debe tener asignado un supervisor y un responsable.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Búsqueda de Obligaciones&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Debe existir un apartado donde el supervisor pueda buscar obligaciones realizadas y filtrarlas por tipo de obligación, fecha y hora.&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h2&gt;✅ &lt;strong&gt;Restricciones Técnicas&lt;/strong&gt;&lt;/h2&gt;&lt;br&gt;&lt;ol&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Duplicidad&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;No permitir que una empresa se registre más de una vez con el mismo NIT.&lt;/i&gt;&lt;/p&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;li&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;p&gt;&lt;i&gt;No permitir que un empleado o supervisor se registre más de una vez con el mismo correo electrónico.&lt;/i&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Validación de Campos&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Todos los campos deben estar validados (estructura, formatos, obligatoriedad).&lt;/i&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="1180" width="540" height="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="GN7G1LldyZy6UH2qVzDP-1" value="Notificación Obligación Realizada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81.25" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
