@@ -234,7 +234,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HcbmT6qIOBBoqGeFj8au" name="Vision">
-    <mxGraphModel dx="1554" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -888,7 +888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Refinamiento Modelo de Dominio_Lastes" id="OV45IXkaOrph7hPNQ0e2">
-    <mxGraphModel dx="1554" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wJf0sH1dfOTRCYn7me0l-0" />
         <mxCell id="wJf0sH1dfOTRCYn7me0l-1" parent="wJf0sH1dfOTRCYn7me0l-0" />
@@ -1111,7 +1111,7 @@
           <mxGeometry x="160" y="735" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wJf0sH1dfOTRCYn7me0l-69" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wJf0sH1dfOTRCYn7me0l-1" vertex="1">
-          <mxGeometry x="279" y="710" width="30" height="20" as="geometry" />
+          <mxGeometry x="265" y="710" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wJf0sH1dfOTRCYn7me0l-70" value="Tiene---&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="wJf0sH1dfOTRCYn7me0l-1" vertex="1">
           <mxGeometry x="200" y="700" width="60" height="30" as="geometry" />
@@ -1135,7 +1135,7 @@
           <mxGeometry x="340" y="820" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJf0sH1dfOTRCYn7me0l-77" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wJf0sH1dfOTRCYn7me0l-1" vertex="1">
-          <mxGeometry x="370.5" y="760" width="30" height="20" as="geometry" />
+          <mxGeometry x="369.5" y="770" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wJf0sH1dfOTRCYn7me0l-78" value="Una obligación tiene un solo calendario?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="wJf0sH1dfOTRCYn7me0l-1" vertex="1">
           <mxGeometry x="398" y="820" width="120" height="80" as="geometry" />
