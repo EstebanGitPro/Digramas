@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="9">
   <diagram name="Entendiendo_El_Problema" id="H3XZQI59wRQvwkgNdc8W">
-    <mxGraphModel dx="954" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-1" value="Actividades Recurrentes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-2" value="Calendario maximo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="-1010" width="120" height="60" as="geometry" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-4" value="Supervisor General" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YgdAjf1vztPD68W-KHi7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-5" target="O_OhSterYHnnrFQMNaXc-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_OhSterYHnnrFQMNaXc-7" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O_OhSterYHnnrFQMNaXc-7" value="Empresa Cliente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-8" target="O_OhSterYHnnrFQMNaXc-30" edge="1">
@@ -73,7 +73,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O_OhSterYHnnrFQMNaXc-15" target="O_OhSterYHnnrFQMNaXc-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="-490" />
+              <mxPoint x="1080" y="-490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YgdAjf1vztPD68W-KHi7-12" value="A los supervisores&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="O_OhSterYHnnrFQMNaXc-33" vertex="1" connectable="0">
           <mxGeometry x="-0.3286" y="-1" relative="1" as="geometry">
@@ -81,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-15" value="Notifica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-570" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O_OhSterYHnnrFQMNaXc-1" target="O_OhSterYHnnrFQMNaXc-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,9 +97,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-25" value="Nit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_OhSterYHnnrFQMNaXc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-2" target="O_OhSterYHnnrFQMNaXc-25" edge="1">
+        <mxCell id="O_OhSterYHnnrFQMNaXc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-2" target="O_OhSterYHnnrFQMNaXc-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YgdAjf1vztPD68W-KHi7-5" value="depende" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="O_OhSterYHnnrFQMNaXc-28" vertex="1" connectable="0">
@@ -111,23 +116,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-30" value="Tipo de Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-31" value="Estado Obligacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-34" value="Notifica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="818.25" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_OhSterYHnnrFQMNaXc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-2" target="O_OhSterYHnnrFQMNaXc-34" edge="1">
+        <mxCell id="O_OhSterYHnnrFQMNaXc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-2" target="O_OhSterYHnnrFQMNaXc-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="-770" />
-              <mxPoint x="830" y="-770" />
-              <mxPoint x="830" y="-730" />
-              <mxPoint x="820" y="-730" />
+              <mxPoint x="878" y="-950" />
             </Array>
-            <mxPoint x="840" y="-730" as="targetPoint" />
+            <mxPoint x="870" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YgdAjf1vztPD68W-KHi7-4" value="Debe de notificar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="O_OhSterYHnnrFQMNaXc-35" vertex="1" connectable="0">
@@ -143,27 +145,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_OhSterYHnnrFQMNaXc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O_OhSterYHnnrFQMNaXc-34" edge="1">
+        <mxCell id="O_OhSterYHnnrFQMNaXc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O_OhSterYHnnrFQMNaXc-34" edge="1" target="O_OhSterYHnnrFQMNaXc-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1133" y="-623" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="-650" />
-              <mxPoint x="1080" y="-670" />
-              <mxPoint x="1133" y="-670" />
+              <mxPoint x="1170" y="-650" />
+              <mxPoint x="1170" y="-623" />
+              <mxPoint x="1171" y="-623" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-38" value="CalendApp" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="-1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-39" value="HelpContable" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-40" value="HelpContable" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_OhSterYHnnrFQMNaXc-42" value="Poder Filtrar Obligaciones por fecha y estado" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZsxOMSXMtM4QEEzPAUVh-1" value="Hay que tener en cuenta que las Obligaciones cada Año pueden ser cambiantes para cada entidad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="10" y="1130" width="550" height="30" as="geometry" />
@@ -184,7 +186,7 @@
           <mxGeometry x="760" y="-1140" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RVuxvirr2qS7C-_ydRY1-8" value="antecedentes" style="label;fontStyle=0;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="1140" width="120" height="26" as="geometry" />
+          <mxGeometry x="1460" y="-1114" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zC_jVkOvYKSZRuP8FDgm-1" value="&lt;table&gt;&#xa;&lt;thead&gt;&#xa;&lt;tr&gt;&#xa;&lt;th&gt;&lt;strong&gt;Tipo de Obligación&lt;/strong&gt;&lt;/th&gt;&#xa;&lt;th&gt;&lt;strong&gt;Ejemplos&lt;/strong&gt;&lt;/th&gt;&#xa;&lt;/tr&gt;&#xa;&lt;/thead&gt;&#xa;&lt;tbody&gt;&#xa;&lt;tr&gt;&#xa;&lt;td&gt;&lt;strong&gt;Formales&lt;/strong&gt;&lt;/td&gt;&#xa;&lt;td&gt;RUT, NIT, Registro Mercantil, facturación, reportes electrónicos&lt;/td&gt;&#xa;&lt;/tr&gt;&#xa;&lt;tr&gt;&#xa;&lt;td&gt;&lt;strong&gt;Sustanciales&lt;/strong&gt;&lt;/td&gt;&#xa;&lt;td&gt;Pago de impuestos: Renta, IVA, Retención en la Fuente, ICA, Timbre&lt;/td&gt;&#xa;&lt;/tr&gt;&#xa;&lt;tr&gt;&#xa;&lt;td&gt;&lt;strong&gt;Locales o Territoriales&lt;/strong&gt;&lt;/td&gt;&#xa;&lt;td&gt;ICA, Avisos y Tableros, Sobretasa Bomberil&lt;/td&gt;&#xa;&lt;/tr&gt;&#xa;&lt;tr&gt;&#xa;&lt;td&gt;&lt;strong&gt;Parafiscales&lt;/strong&gt;&lt;/td&gt;&#xa;&lt;td&gt;SENA, ICBF, Cajas de Compensación, Salud y Pensión&lt;/td&gt;&#xa;&lt;/tr&gt;&#xa;&lt;/tbody&gt;&#xa;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="330" width="560" height="470" as="geometry" />
@@ -238,7 +240,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QQ__g4snks1C5WNvqSQs-2" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Visión de Obligaciones Tributarias&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Para las empresas de contadores que buscan una solución integral para la gestión de obligaciones tributarias de sus múltiples clientes y que carecen de un sistema eficiente que centralice y automatice la asignación y seguimiento de estas obligaciones, nuestro aplicativo web es una plataforma robusta y flexible que optimiza la supervisión y cumplimiento fiscal.&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;A diferencia de las hojas de cálculo manuales o sistemas genéricos de gestión de tareas, nuestra aplicación permite a los equipos de trabajo distribuir y gestionar las obligaciones tributarias de sus clientes de manera organizada, mientras que los supervisores monitorean el progreso y validan las tareas completadas. Nuestro producto incorpora calendarios tributarios dinámicos que se actualizan anualmente y maneja fechas de vencimiento específicas basadas en el NIT de la empresa o en calendarios fijos expedidos por los diferentes organismos de control. Adicionalmente, brinda la facilidad de manejar diversas periodicidades y métodos de cálculo de fechas límite, garantizando la adaptabilidad a cualquier tipo de obligación tributaria, desde el IVA y la declaración de renta hasta los reportes a la Superintendencia de Sociedades. Esto se traduce en un control y seguimiento del cumplimiento fiscal, brindando a los supervisores una visión clara del estado de cada obligación, minimizando errores, ahorrando tiempo y evitando sanciones.&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="QQ__g4snks1C5WNvqSQs-2" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Visión&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Para las empresas de contadores que buscan una solución integral para la gestión de obligaciones tributarias de sus múltiples clientes y que carecen de un sistema eficiente que centralice y automatice la asignación y seguimiento de estas obligaciones, nuestro aplicativo web es una plataforma robusta y flexible que optimiza la supervisión y cumplimiento fiscal.&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;A diferencia de las hojas de cálculo manuales o sistemas genéricos de gestión de tareas, nuestra aplicación permite a los equipos de trabajo distribuir y gestionar las obligaciones tributarias de sus clientes de manera organizada, mientras que los supervisores monitorean el progreso y validan las tareas completadas. Nuestro producto incorpora calendarios tributarios dinámicos que se actualizan anualmente y maneja fechas de vencimiento específicas basadas en el NIT de la empresa o en calendarios fijos expedidos por los diferentes organismos de control. Adicionalmente, brinda la facilidad de manejar diversas periodicidades y métodos de cálculo de fechas límite, garantizando la adaptabilidad a cualquier tipo de obligación tributaria, desde el IVA y la declaración de renta hasta los reportes a la Superintendencia de Sociedades. Esto se traduce en un control y seguimiento del cumplimiento fiscal, brindando a los supervisores una visión clara del estado de cada obligación, minimizando errores, ahorrando tiempo y evitando sanciones.&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1030" width="740" height="400" as="geometry" />
         </mxCell>
       </root>
@@ -1220,6 +1222,183 @@
         <mxCell id="1" parent="0" />
         <mxCell id="OzvXA2GeNEpNWWkF6W_i-1" value="&lt;h3 class=&quot;text-lg font-bold text-text-100 mt-1 -mb-1.5&quot;&gt;2. &lt;strong&gt;Configuración de Notificaciones&lt;/strong&gt;&lt;/h3&gt;&#xa;&lt;p class=&quot;whitespace-normal break-words&quot;&gt;Sí, meterla en &quot;Obligación Realizada&quot; sería lo más directo:&lt;/p&gt;&#xa;&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot; depth=&quot;0&quot;&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;dias_anticipacion_notificacion&lt;/code&gt; (integer)&lt;/li&gt;&#xa;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;fecha_limite_notificacion&lt;/code&gt; (calculada)&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="340" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aSrktWjwz2Baq4GCl1AM" name="Página-9">
+    <mxGraphModel dx="1636" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-3" target="U4aHlqIPQfSGIqUGSyqH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-2" value="Tienen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-1">
+          <mxGeometry x="-0.2714" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-3" value="Actividades Recurrentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-4" value="Calendario maximo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-7" target="U4aHlqIPQfSGIqUGSyqH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-6" value="Necesita" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-5">
+          <mxGeometry x="0.2502" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-7" value="Supervisor General" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-10" target="U4aHlqIPQfSGIqUGSyqH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-9" value="Tiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-8">
+          <mxGeometry x="0.0778" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-10" value="Responsable&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-13" target="U4aHlqIPQfSGIqUGSyqH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-12" value="tiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-11">
+          <mxGeometry x="-0.0222" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-13" value="Empresa Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-16" target="U4aHlqIPQfSGIqUGSyqH-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-15" value="hacen parte de" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-14">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-16" value="Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-10" target="U4aHlqIPQfSGIqUGSyqH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-18" value="hace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-17">
+          <mxGeometry x="-0.584" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-21" target="U4aHlqIPQfSGIqUGSyqH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="786" y="680" />
+              <mxPoint x="786" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-20" value="A los supervisores&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-19">
+          <mxGeometry x="-0.3286" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-21" value="Notifica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-3" target="U4aHlqIPQfSGIqUGSyqH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-23" value="Debe de notificar&amp;nbsp;&lt;div&gt;tarea Finalizada&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-22">
+          <mxGeometry x="-0.3111" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-24" value="Nit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-4" target="U4aHlqIPQfSGIqUGSyqH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-26" value="depende" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-25">
+          <mxGeometry x="0.4318" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-29" target="U4aHlqIPQfSGIqUGSyqH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-28" value="Pertenecen&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-27">
+          <mxGeometry x="0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-29" value="Tipo de Obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-30" value="Estado Obligacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-31" value="Notifica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-4" target="U4aHlqIPQfSGIqUGSyqH-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="370" />
+              <mxPoint x="520" y="370" />
+            </Array>
+            <mxPoint x="576" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-33" value="Debe de notificar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U4aHlqIPQfSGIqUGSyqH-32">
+          <mxGeometry x="-0.2966" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-31" target="U4aHlqIPQfSGIqUGSyqH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4aHlqIPQfSGIqUGSyqH-31" target="U4aHlqIPQfSGIqUGSyqH-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="839" y="547" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="520" />
+              <mxPoint x="760" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-36" value="CalendApp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="914" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-37" value="HelpContable" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-38" value="Poder Filtrar Obligaciones por fecha y estado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-39" value="Problema" style="label;fontStyle=0;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U4aHlqIPQfSGIqUGSyqH-40" value="antecedentes" style="label;fontStyle=0;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="870" width="120" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
