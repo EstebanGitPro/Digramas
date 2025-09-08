@@ -115,6 +115,9 @@
         <mxCell id="RaiEYyjb_QK-6UHaHSNt-8" value="escogemos 300 debido a que la mayoría&amp;nbsp;&lt;div&gt;de los texto son cortos y la concentración esta de 0 ---100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="910" width="185" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="RaiEYyjb_QK-6UHaHSNt-11" value="&lt;span style=&quot;color: rgb(204, 204, 204); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Tamaño real del vocabulario: 14690&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1060" width="440" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
