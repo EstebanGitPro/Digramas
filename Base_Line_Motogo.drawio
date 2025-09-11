@@ -152,10 +152,10 @@
             <mxRectangle x="12.129999999999999" y="50" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CEDAvoWxyLM4XspCBf63-13" value="constants.go" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEDAvoWxyLM4XspCBf63-12">
+        <mxCell id="CEDAvoWxyLM4XspCBf63-13" value="person.go" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEDAvoWxyLM4XspCBf63-12">
           <mxGeometry x="16" y="30" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CEDAvoWxyLM4XspCBf63-14" value="resend.go" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEDAvoWxyLM4XspCBf63-12">
+        <mxCell id="CEDAvoWxyLM4XspCBf63-14" value="repository.go" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEDAvoWxyLM4XspCBf63-12">
           <mxGeometry x="16" y="160" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CEDAvoWxyLM4XspCBf63-9" value="logger" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#f8c0be, #d7817e);rounded=0;shadow=0;glass=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="GW13eoubw-cd3XYsjpFc-48">
