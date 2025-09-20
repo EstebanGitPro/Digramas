@@ -32,7 +32,10 @@
           <mxGeometry x="500" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-Yc8mttMGD5BmctyR81-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sin modelo&lt;/h1&gt;&lt;p&gt;De esta manera no se necesita un modelo, solo trabajamos con la entidad&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="180" height="120" as="geometry" />
+          <mxGeometry x="20" y="465" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Yc8mttMGD5BmctyR81-2" value="Esto es mas con los servicios que le tiene que pasar muchos datos al cliente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
