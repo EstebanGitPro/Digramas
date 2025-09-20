@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Página-1" id="UljX3ZgkSFEY0UrKZ9x9">
+    <mxGraphModel dx="1384" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ildWDxg74Ny9wRDvC2I7-1" target="ildWDxg74Ny9wRDvC2I7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Solicitamos datos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ildWDxg74Ny9wRDvC2I7-2" target="ildWDxg74Ny9wRDvC2I7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-2" value="&lt;div&gt;Service(crear cliente)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ildWDxg74Ny9wRDvC2I7-3" target="ildWDxg74Ny9wRDvC2I7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-3" value="Body del servicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ildWDxg74Ny9wRDvC2I7-4" target="ildWDxg74Ny9wRDvC2I7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-4" value="Se crea la entidad que tienen los parametros que se van a pedir en el body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ildWDxg74Ny9wRDvC2I7-5" value="Metodo&amp;nbsp; ToMap() dentro de la clase de la entidad(clase padre)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
