@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.8" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.8" pages="10">
   <diagram name="Entendiendo_El_Problema" id="H3XZQI59wRQvwkgNdc8W">
     <mxGraphModel dx="1384" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1330,6 +1330,76 @@
         </mxCell>
         <mxCell id="U4aHlqIPQfSGIqUGSyqH-40" value="antecedentes" style="label;fontStyle=0;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="330" y="870" width="120" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wzt9z7TEdA9ISwXOqGFd" name="Página-10">
+    <mxGraphModel dx="2734" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-1" value="Usuario&#xa;---------------------&#xa;id: UUID&#xa;nombre: string&#xa;email: string&#xa;password_hash: string&#xa;rol: enum(supervisor,responsable)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEE99" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-2" value="Empresa Matriz&#xa;---------------------&#xa;id: UUID&#xa;nombre: string&#xa;nit: string&#xa;estado: activo/inactivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC" vertex="1" parent="1">
+          <mxGeometry x="-120" y="260" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-3" value="Empresa Cliente&#xa;---------------------&#xa;id: UUID&#xa;nombre: string&#xa;municipio_id: UUID&#xa;estado: activo/inactivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-4" value="Municipio&#xa;---------------------&#xa;id: UUID&#xa;nombre: string&#xa;estado: activo/inactivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="265" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-5" value="Calendario Tributario&#xa;---------------------&#xa;id: UUID&#xa;municipio_id: UUID&#xa;nombre: string&#xa;fecha_inicio: date&#xa;fecha_fin: date&#xa;estado: activo/inactivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="240" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-6" value="Tipo de Obligación&#xa;---------------------&#xa;id: UUID&#xa;nombre: string&#xa;periodicidad: mensual/anual&#xa;reglas: json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="585" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-7" value="Obligación Asignada&#xa;---------------------&#xa;id: UUID&#xa;empresa_cliente_id: UUID&#xa;tipo_id: UUID&#xa;calendario_id: UUID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="360" y="585" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-8" value="Obligación Realizada&#xa;---------------------&#xa;id: UUID&#xa;obligacion_id: UUID&#xa;fecha: date&#xa;estado: completada/vencida" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999" vertex="1" parent="1">
+          <mxGeometry x="690" y="585" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-9" value="Trazabilidad Obligación&#xa;---------------------&#xa;id: UUID&#xa;obligacion_id: UUID&#xa;accion: string&#xa;fecha: datetime&#xa;usuario_id: UUID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFBBBB" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-10" value="Trazabilidad Calendario&#xa;---------------------&#xa;id: UUID&#xa;calendario_id: UUID&#xa;accion: string&#xa;fecha: datetime&#xa;usuario_id: UUID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="1260" y="250" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-12" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-2" target="PvGThkr2Oqn-OsMNNhDb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-13" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-3" target="PvGThkr2Oqn-OsMNNhDb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-14" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-4" target="PvGThkr2Oqn-OsMNNhDb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-15" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-3" target="PvGThkr2Oqn-OsMNNhDb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-16" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-6" target="PvGThkr2Oqn-OsMNNhDb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-17" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-7" target="PvGThkr2Oqn-OsMNNhDb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-18" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-7" target="PvGThkr2Oqn-OsMNNhDb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-19" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-5" target="PvGThkr2Oqn-OsMNNhDb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvGThkr2Oqn-OsMNNhDb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGThkr2Oqn-OsMNNhDb-1" target="PvGThkr2Oqn-OsMNNhDb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
