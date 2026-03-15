@@ -1355,7 +1355,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sa9smSDiGFRz-d26BU_c" name="Página-10">
-    <mxGraphModel dx="1389" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1390,8 +1390,13 @@
         <mxCell id="0v7-7M7n189GdSIbGg-D-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Calendario" vertex="1">
           <mxGeometry height="60" width="120" x="756" y="264" as="geometry" />
         </mxCell>
-        <mxCell id="0v7-7M7n189GdSIbGg-D-7" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0v7-7M7n189GdSIbGg-D-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0v7-7M7n189GdSIbGg-D-7" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0v7-7M7n189GdSIbGg-D-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="770" />
+              <mxPoint x="970" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-8" connectable="0" parent="0v7-7M7n189GdSIbGg-D-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Necesita" vertex="1">
           <mxGeometry relative="1" x="0.2502" y="-1" as="geometry">
@@ -1407,6 +1412,20 @@
         <mxCell id="0v7-7M7n189GdSIbGg-D-11" connectable="0" parent="0v7-7M7n189GdSIbGg-D-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tiene" vertex="1">
           <mxGeometry relative="1" x="0.0778" y="-3" as="geometry">
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7-7M7n189GdSIbGg-D-47" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0v7-7M7n189GdSIbGg-D-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="660" />
+              <mxPoint x="676" y="660" />
+              <mxPoint x="676" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7-7M7n189GdSIbGg-D-48" connectable="0" parent="0v7-7M7n189GdSIbGg-D-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Necesita" vertex="1">
+          <mxGeometry relative="1" x="0.1566" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Responsable&amp;nbsp;" vertex="1">
@@ -1463,12 +1482,13 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v7-7M7n189GdSIbGg-D-23" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0v7-7M7n189GdSIbGg-D-9">
+        <mxCell id="0v7-7M7n189GdSIbGg-D-23" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="0v7-7M7n189GdSIbGg-D-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1016" y="784" />
-              <mxPoint x="1016" y="784" />
+              <mxPoint x="827" y="860" />
+              <mxPoint x="1116" y="860" />
             </Array>
+            <mxPoint x="800" y="784" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-24" connectable="0" parent="0v7-7M7n189GdSIbGg-D-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="A los supervisores&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -1476,16 +1496,13 @@
             <mxPoint x="30" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v7-7M7n189GdSIbGg-D-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notifica" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="754" as="geometry" />
-        </mxCell>
-        <mxCell id="0v7-7M7n189GdSIbGg-D-26" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="0v7-7M7n189GdSIbGg-D-25">
+        <mxCell id="0v7-7M7n189GdSIbGg-D-26" edge="1" parent="1" source="0v7-7M7n189GdSIbGg-D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0v7-7M7n189GdSIbGg-D-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="864" />
-              <mxPoint x="650" y="864" />
-              <mxPoint x="650" y="784" />
+              <mxPoint x="707" y="864" />
             </Array>
+            <mxPoint x="680" y="784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-27" connectable="0" parent="0v7-7M7n189GdSIbGg-D-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Debe de notificar&amp;nbsp;&lt;div&gt;obligaón finalizada/vencida&lt;/div&gt;" vertex="1">
@@ -1534,7 +1551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Poder Filtrar Obligaciones" vertex="1">
-          <mxGeometry height="60" width="120" x="1056" y="914" as="geometry" />
+          <mxGeometry height="60" width="120" x="756" y="740" as="geometry" />
         </mxCell>
         <mxCell id="0v7-7M7n189GdSIbGg-D-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="fecha" vertex="1">
           <mxGeometry height="60" width="120" x="1310" y="354" as="geometry" />
@@ -1571,6 +1588,9 @@
           <mxGeometry relative="1" x="0.3169" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7-7M7n189GdSIbGg-D-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notifica" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
