@@ -1145,7 +1145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Refinamiento Modelo de Dominio_Lastes" id="Dy8ErqnL3PsPuOgCjB7z">
-    <mxGraphModel dx="369" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="816" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xOYTkPcvioealkS_Jamm-0" />
         <mxCell id="xOYTkPcvioealkS_Jamm-1" parent="xOYTkPcvioealkS_Jamm-0" />
@@ -1350,7 +1350,7 @@
           <mxGeometry height="30" width="91" x="625" y="990" as="geometry" />
         </mxCell>
         <mxCell id="xOYTkPcvioealkS_Jamm-60" parent="xOYTkPcvioealkS_Jamm-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1...*" vertex="1">
-          <mxGeometry height="20" width="30" x="422.5" y="1000" as="geometry" />
+          <mxGeometry height="20" width="30" x="419.5" y="990" as="geometry" />
         </mxCell>
         <mxCell id="xOYTkPcvioealkS_Jamm-61" edge="1" parent="xOYTkPcvioealkS_Jamm-1" source="xOYTkPcvioealkS_Jamm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="xOYTkPcvioealkS_Jamm-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1386,7 +1386,7 @@
           <mxGeometry height="30" width="103.5" x="292.25" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="LffitZZUK4u2UZvbZ2NT-4" parent="xOYTkPcvioealkS_Jamm-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1...*" vertex="1">
-          <mxGeometry height="20" width="30" x="494.5" y="1110" as="geometry" />
+          <mxGeometry height="20" width="30" x="495.5" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="LffitZZUK4u2UZvbZ2NT-5" parent="xOYTkPcvioealkS_Jamm-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
           <mxGeometry height="20" width="30" x="358.5" y="1020" as="geometry" />
